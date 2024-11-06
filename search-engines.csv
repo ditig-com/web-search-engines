@@ -1,4 +1,5 @@
 NAME,URL,DESCRIPTION,PURPOSE,LANGUAGE,PROS,MODEL,TYPE,SPECTRUM,UA,UA_URL,UA_REP,OWNER,OWNER-URL,OWNER-COUNTRY
+SearchThis,https://www.searchthis.ch,Web search engine which indexes,General Puropose,Multilingual,own index,Free,Crawler,Web,n/a,n/a,n/a,PSL-Informatik Switzerland,www.PSL-Informatik.ch,Switzerland
 Ahmia,https://ahmia.fi/,Web search engine which indexes .onion URLs from the Tor network.,General Puropose,English,own index,Free,Crawler,Darknet,UNDISCLOSED,https://ahmia.fi/documentation/indexing/,fully,Juha Nurmi,https://ahmia.fi/,Finland
 All the Internet,https://www.alltheinternet.com/,Web search engine with a focus on users’ privacy.,General Puropose,English,privacy,Free,Meta Search Engine,Clearnet,n/a,n/a,n/a,"Advanced Search Technologies, Inc. ",https://www.advancedsearchcorp.com/,United States of America
 AOL,https://search.aol.com/,Web search engine.,General Puropose,Multilingual,,Free,Meta Search Engine,Clearnet,Slurp,https://help.yahoo.com/kb/SLN22600.html,fully,"Apollo Global Management, Inc.",https://www.apollo.com/,United States of America
@@ -19,6 +20,7 @@ Webcrawler,https://www.infospace.com/,Web search engine.,General Puropose,Englis
 Kagi,https://kagi.com/,Ad-free web search engine.,General Puropose,Multilingual,ad-free,Paid,Meta Search Engine,Clearnet,n/a,n/a,n/a,"Kagi, Inc.",https://kagi.com/,United States of America
 Lilo,https://search.lilo.org/,Web search engine which lets users donate the advertising revenue.,General Puropose,Bilingual,revenue sharing  ,Free,Meta Search Engine,Clearnet,n/a,n/a,n/a,"Lilo, SAS",https://www.lilo.org/,France
 Lycos,https://search.lycos.com/,Web search engine.,General Puropose,Multilingual,,Free,Meta Search Engine,Clearnet,n/a,n/a,n/a,"Lycos, Inc.",https://www.lycos.com/,United States of America
+MyAllSearch,https://www.myallsearch.com.com/,Web search engine with a focus on users’ privacy.,General Puropose,English,privacy,Free,Meta Search Engine,Clearnet,n/a,n/a,n/a,MyAllSearch,https://www.myallsearch.com/,United Kingdom
 MetaGer,https://metager.de/,Web search engine based on open source technologies.,General Puropose,Multilingual,,Free,Meta Search Engine,Clearnet,n/a,n/a,n/a,SUMA-EV - Verein für freien Wissenszugang (e.V.),http://suma-ev.de/,Germany
 Mojeek,https://www.mojeek.com/,General purpose web search engine with a focus on users’ privacy.,General Puropose,Multilingual,"own index, privacy",Free,Crawler,Clearnet,MojeekBot,https://www.mojeek.com/bot.html,fully,Mojeek Limited,https://www.mojeek.com/,England
 Naver,https://www.naver.com/,Web search engine for South Korea.,General Puropose,Korean,own index,Free,Crawler,Clearnet,Yeti,https://searchadvisor.naver.com/guide/seo-basic-firewall,fully,NAVER Corporation,https://www.naver.com/,South Korean
