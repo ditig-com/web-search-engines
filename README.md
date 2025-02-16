@@ -1,6 +1,6 @@
 ## List of web search engines
 
-This repository contains the [list of web search engines](https://www.ditig.com/publications/list-of-web-search-engines) as shown on [ditig.com](https://www.ditig.com/). 
+This repository contains the [list of web search engines](https://www.ditig.com/list-of-web-search-engines) as shown on [ditig.com](https://www.ditig.com/). 
 
 
 ### Add & Edit
